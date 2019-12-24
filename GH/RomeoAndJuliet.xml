@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SYNC>
+<ADI>
+<Metadata>
+<AMS Provider="RMSP" Product="FVOD" Asset_Name="为爱下厨开播 聂远教你做胡萝卜炒红烧肉" Version_Major="1" Version_Minor="0" Description="" Creation_Date="2018-12-06" Provider_ID="10091" Asset_ID="RMPE0120181206174305" Asset_Class="package"/>
+</Metadata>
+<Asset>
+<Metadata>
+<AMS Provider="RMSP" Product="FVOD" Asset_Name="为爱下厨开播 聂远教你做胡萝卜炒红烧肉" Version_Major="1" Version_Minor="0" Description="" Creation_Date="2018-12-06" Provider_ID="10091" Asset_ID="RMTE0120181206174305" Asset_Class="title"/>
+<App_Data App="MOD" Name="Title" Value="为爱下厨开播 聂远教你做胡萝卜炒红烧肉"/>
+<App_Data App="MOD" Name="Run_Time" Value="00:03:21"/>
+<App_Data App="MOD" Name="Licensing_Window_Start" Value="2018-12-06"/>
+<App_Data App="MOD" Name="Licensing_Window_End" Value="2030-08-31"/>
+<App_Data App="MOD" Name="Year" Value=""/>
+<App_Data App="MOD" Name="Country_of_Origin" Value=""/>
+<App_Data App="MOD" Name="Distributor_Name" Value=""/>
+<App_Data App="MOD" Name="Actors" Value=""/>
+<App_Data App="MOD" Name="Director" Value=""/>
+<App_Data App="MOD" Name="Summary_Short" Value=""/>
+<App_Data App="MOD" Name="ADIFileExportTimestamp" Value="20181209174202"/>
+<App_Data App="MOD" Name="Category" Value="\人民视频\人民视频专区\视点"/>
+</Metadata>
+<Asset>
+<Metadata>
+<AMS Provider="RMSP" Product="FVOD" Asset_Name="为爱下厨开播 聂远教你做胡萝卜炒红烧肉" Version_Major="1" Version_Minor="0" Description="" Creation_Date="2018-12-06" Provider_ID="10091" Asset_ID="RMPR0120181206174305" Asset_Class="poster"/>
+</Metadata>
+<Content Value="http://flvimage.people.com.cn/videofile6/pvmsimage/2018/12/6/ShiXinPei_33077a15c529b9c0844f0927ef8a7fab.png"/>
+</Asset>
+<Asset>
+<Metadata>
+<AMS Provider="RMSP" Product="FVOD" Asset_Name="为爱下厨开播 聂远教你做胡萝卜炒红烧肉" Version_Major="1" Version_Minor="0" Description="" Creation_Date="2018-12-06" Provider_ID="10091" Asset_ID="RMPR0220181206174305" Asset_Class="poster"/>
+</Metadata>
+<Content Value=""/>
+</Asset>
+<Asset>
+<Metadata>
+<AMS Provider="RMSP" Product="FVOD" Asset_Name="为爱下厨开播 聂远教你做胡萝卜炒红烧肉" Version_Major="1" Version_Minor="0" Description="" Creation_Date="2018-12-06" Provider_ID="10091" Asset_ID="RMPR0320181206174305" Asset_Class="poster"/>
+</Metadata>
+<Content Value=""/>
+</Asset>
+<Asset>
+<Metadata>
+<AMS Provider="RMSP" Product="FVOD" Asset_Name="为爱下厨开播 聂远教你做胡萝卜炒红烧肉" Version_Major="1" Version_Minor="0" Description="" Creation_Date="2018-12-06" Provider_ID="10091" Asset_ID="RMME0120181206174305" Asset_Class="movie"/>
+</Metadata>
+<Content Value="http://flv4.people.com.cn/videofile6/pvmsvideo/2018/12/6/ShiXinPei_7c0c566a9aa19f58450ad409ca74a431.ts"/>
+</Asset>
+</Asset>
+</ADI>
+</SYNC>
